@@ -2,7 +2,7 @@
 
 ChantSynopsis is a tool for generating visualizations of monophonic chants by layering multiple sequences above each other. It provides an easy-to-perceive view of where there are uncertain phrases and where there is stability across all passages. Inspired by synoptic viewers from multiple-sequence alignment approaches in bioinformatics, Chant Synopsis adapts these concepts to the specific requirements of musical notation for monophonic chant.
 
-You can use the app [here](https://chantsynopsis.web.app/). 
+You can use the app [here](https://timeipert.github.io/ChantSynopsis/). 
 
 https://github.com/user-attachments/assets/6ed7eb02-d150-492f-be83-f1f2d5f64848
 
