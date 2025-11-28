@@ -6,7 +6,7 @@ You can use the app [here](https://chantsynopsis.web.app/).
 
 https://github.com/user-attachments/assets/6ed7eb02-d150-492f-be83-f1f2d5f64848
 
-
+Code is in folder `docs` (to easily run it in Github Pages).
 
 ## Features
 
